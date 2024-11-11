@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9098533c.css",
-    "main.js": "/static/js/main.39eb2f42.js",
-    "static/js/453.a06f0067.chunk.js": "/static/js/453.a06f0067.chunk.js",
-    "static/media/img-secundary.png": "/static/media/img-secundary.47c5ed573e67ed9294da.png",
-    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
-    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
-    "static/media/project-02.jpg": "/static/media/project-02.d9d3bb02e4032b4577fd.jpg",
-    "static/media/project-01.jpg": "/static/media/project-01.781a892d012164fae9fa.jpg",
-    "static/media/img-primary.png": "/static/media/img-primary.b734bf5a5c9bd5a6e8c2.png",
-    "static/media/logo.png": "/static/media/logo.b734bf5a5c9bd5a6e8c2.png",
-    "static/media/project-03.jpg": "/static/media/project-03.867ca0fb53824b6ad6ba.jpg",
-    "index.html": "/index.html",
-    "main.9098533c.css.map": "/static/css/main.9098533c.css.map",
-    "main.39eb2f42.js.map": "/static/js/main.39eb2f42.js.map",
-    "453.a06f0067.chunk.js.map": "/static/js/453.a06f0067.chunk.js.map"
+    "main.css": "/agencia-dscode/static/css/main.fc34e187.css",
+    "main.js": "/agencia-dscode/static/js/main.f4cd855d.js",
+    "static/js/453.a06f0067.chunk.js": "/agencia-dscode/static/js/453.a06f0067.chunk.js",
+    "static/media/img-secundary.png": "/agencia-dscode/static/media/img-secundary.47c5ed573e67ed9294da.png",
+    "static/media/bootstrap-icons.woff?": "/agencia-dscode/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/agencia-dscode/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/project-02.jpg": "/agencia-dscode/static/media/project-02.d9d3bb02e4032b4577fd.jpg",
+    "static/media/project-01.jpg": "/agencia-dscode/static/media/project-01.781a892d012164fae9fa.jpg",
+    "static/media/img-primary.png": "/agencia-dscode/static/media/img-primary.b734bf5a5c9bd5a6e8c2.png",
+    "static/media/logo.png": "/agencia-dscode/static/media/logo.b734bf5a5c9bd5a6e8c2.png",
+    "static/media/project-03.jpg": "/agencia-dscode/static/media/project-03.867ca0fb53824b6ad6ba.jpg",
+    "index.html": "/agencia-dscode/index.html",
+    "main.fc34e187.css.map": "/agencia-dscode/static/css/main.fc34e187.css.map",
+    "main.f4cd855d.js.map": "/agencia-dscode/static/js/main.f4cd855d.js.map",
+    "453.a06f0067.chunk.js.map": "/agencia-dscode/static/js/453.a06f0067.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9098533c.css",
-    "static/js/main.39eb2f42.js"
+    "static/css/main.fc34e187.css",
+    "static/js/main.f4cd855d.js"
   ]
 }
