@@ -1,0 +1,18 @@
+@media (max-width: 1020px) {
+    .main {
+        flex-direction: column-reverse;
+    }
+
+    .txt-top-site {
+        margin: 0 auto;
+    }
+
+    .txt-top-site h1 {
+        font-size: 30px;
+    }
+
+    .txt-top-site p {
+        text-align: justify;
+    }
+
+}

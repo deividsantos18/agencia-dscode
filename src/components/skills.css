@@ -1,0 +1,35 @@
+.specialties {
+    margin-top: 200px;
+}
+
+.specialties-box {
+    display: flex;
+    color: white;
+    gap: 60px;
+    margin: 45px 0;
+}
+
+.specialties-box i {
+    font-size: 70px;
+    color: #00ff08;
+}
+
+.specialties-box h3 {
+    font-size: 28px;
+    margin: 15px 0;
+}
+
+.specialties-box-element {
+    padding: 40px;
+    border-radius: 20px;
+    transition: .2s;
+}
+
+.specialties-box-element p {
+    font-size: 20px;
+}
+
+.specialties-box-element:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 8px rgba(255, 255, 255, 0.372);
+}
